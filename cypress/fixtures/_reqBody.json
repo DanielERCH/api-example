@@ -1,0 +1,16 @@
+{
+  "id": 4242,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "tess3333",
+  "photoUrls": ["string"],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

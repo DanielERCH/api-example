@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.672" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-01-25T17:34:36" tests="0" file="cypress\e2e\api\test.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Regresión de API https://petstore.swagger.io/v2/pet" timestamp="2023-01-25T17:34:36" tests="3" time="2.602" failures="0">
+    <testcase name="Regresión de API https://petstore.swagger.io/v2/pet CP001 - Agregar una mascota" time="1.949" classname="CP001 - Agregar una mascota">
+    </testcase>
+    <testcase name="Regresión de API https://petstore.swagger.io/v2/pet CP002 - Obtener una mascota existente" time="0.219" classname="CP002 - Obtener una mascota existente">
+    </testcase>
+    <testcase name="Regresión de API https://petstore.swagger.io/v2/pet CP003 - Modificar una mascota existente" time="0.410" classname="CP003 - Modificar una mascota existente">
+    </testcase>
+  </testsuite>
+</testsuites>

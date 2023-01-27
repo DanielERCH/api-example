@@ -1,0 +1,6 @@
+{
+  "PATH_RESPONSE": "cypress/fixtures/_response.json",
+  "PATH_ID": "cypress/fixtures/_id.json",
+  "PATH_UPDATE": "cypress/fixtures/_update.json",
+  "PATH_SCHEMA": "cypress/fixtures/_schema.json"
+}
