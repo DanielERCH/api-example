@@ -7,7 +7,7 @@
 		
 3° Ingresar al proyecto :
 
-	> cd shop-example
+	> cd api-example
 	
 4° Instalar las dependencias:
  
