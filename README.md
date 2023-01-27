@@ -1,5 +1,6 @@
 # **Pasos para ejecutar las pruebas**
 1° Tener instalado **NodeJS** y **NPM**
+
 2° Ubicarse en la carpeta que guardará el proyecto y ejecutar los siguientes comandos:
  
 	> git clone https://github.com/DanielERCH/api-example.git  
